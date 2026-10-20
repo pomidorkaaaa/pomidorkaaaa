@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/pomidorkaaaa/favouritegame"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-favouritegame-dark.svg"><img src="assets/project-favouritegame-light.svg" width="49%" alt="favouritegame"></picture></a>&nbsp;<a href="https://github.com/pomidorkaaaa/pomidorkaaaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pomidorkaaaa-dark.svg"><img src="assets/project-pomidorkaaaa-light.svg" width="49%" alt="pomidorkaaaa"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
