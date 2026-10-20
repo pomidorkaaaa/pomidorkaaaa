@@ -2,11 +2,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m pomidorkaaaa"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.271%" alt=""></picture><a href="https://t.me/pywir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://https://steamcommunity.com/id/pomidorkatomato/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.335%" alt="steam"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.271%" alt=""></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="25.530%" alt=""></picture><a href="https://t.me/pywir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://steamcommunity.com/id/pomidorkatomato/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.335%" alt="steam"></picture></a><a href="https://www.reddit.com/user/ukra1necontryb2ll/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.480%" alt="reddit"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="25.530%" alt=""></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/pomidorkaaaa/favouritegame"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-favouritegame-dark.svg"><img src="assets/project-favouritegame-light.svg" width="49%" alt="favouritegame"></picture></a>&nbsp;<a href="https://github.com/pomidorkaaaa/pomidorkaaaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pomidorkaaaa-dark.svg"><img src="assets/project-pomidorkaaaa-light.svg" width="49%" alt="pomidorkaaaa"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

@@ -107,7 +107,11 @@
       },
       {
         "icon": "brand:steam",
-        "url": "https://https://steamcommunity.com/id/pomidorkatomato/"
+        "url": "https://steamcommunity.com/id/pomidorkatomato/"
+      },
+      {
+        "icon": "brand:reddit",
+        "url": "https://www.reddit.com/user/ukra1necontryb2ll/"
       }
     ],
     "variant": "chip",
