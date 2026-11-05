@@ -1,13 +1,21 @@
 {
- "key": "7830c3d1",
+ "key": "325046df",
  "stars": 1,
- "contributions": 12,
- "repos": 3,
+ "contributions": 18,
+ "repos": 4,
  "followers": 1,
  "languages": [
   [
+   "JavaScript",
+   166502
+  ],
+  [
+   "CSS",
+   64421
+  ],
+  [
    "HTML",
-   2135
+   9230
   ]
  ],
  "days": [
@@ -107,7 +115,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 5,
     "today": true
    },
@@ -116,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
@@ -128,6 +136,15 @@
    "fork": false,
    "stars": 1,
    "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "kaziklydka",
+   "url": "https://github.com/pomidorkaaaa/kaziklydka",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   },
   {
